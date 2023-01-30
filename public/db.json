@@ -1,0 +1,71 @@
+{
+    "Nome/titolo": "JAVASCRIPT CONFERENCE ON THE PLANET",
+    "Breve descrizione": "A 3-day JavaScript Celebration together with 2139 JavaScript Developers. Packed with the Latest JavaScript Updates by Authors, Creators and Experts.",
+    "Date": [
+        {
+            "Campo data": "8 Febbraio 2023",
+            "Traks": [
+                {
+                    "Orario": "8:00-9:10",
+                    "Titolo": "Doors Open",
+                    "Breve descrizione": "Come to pick up your badge, merchandise, morning snack & coffee, tea or juice.",
+                    "Immagine": ""
+                },
+                {
+                    "Orario": "9:10-9:37",
+                    "Titolo": "Accelerating developer experience in Angular",
+                    "Breve descrizione": "In this talk we’ll explore new features in Angular and how the improved developer experience is lowering the friction for building great experiences on the web.",
+                    "Immagine": ""
+                }
+            ]
+        },
+        {
+            "Campo data": "9 Febbraio 2023",
+            "Traks": [
+                {
+                    "Orario": "9:37-10:04",
+                    "Titolo": "The Complete Guide to packaging Libraries",
+                    "Breve descrizione": "Learn everything you need to know about packaging and publishing your own libraries as an open-source npm package in this comprehensive guide.",
+                    "Immagine": ""
+                },
+                {
+                    "Orario": "10:04-10:31",
+                    "Titolo": "Playing your tests wright",
+                    "Breve descrizione": "It's time to play your tests wright. Let's take a look at how to write good tests and cover some of the best practices for testing, choosing the right locators and more.",
+                    "Immagine": ""
+                }
+            ]
+        },
+        {
+            "Campo data": "10 Febbraio 2023",
+            "Traks": [
+                {
+                    "Orario": "9:15-10:00",
+                    "Titolo": "State of the Vuenion 2023",
+                    "Breve descrizione": "After 3 years, returning in person to Amsterdam to bring us the Annual Anticipated State of The Vuenion with new exciting news from the Vue Eco System, a talk you can not miss brought by the creator of Vue and Vite, Evan You.",
+                    "Immagine": ""
+                },
+                {
+                    "Orario": "10:00-10:27",
+                    "Titolo": "Proven Pinia Patterns",
+                    "Breve descrizione": "With Vue's new-and-improved state management library, we gain a much more modular tool. While being more flexible and lacking the Mutations of Vuex, Pinia presents us with more opportunities to be creative, for better or worse, with our app architecture and how state management is conducted and organized within it.",
+                    "Immagine": ""
+                }
+            ]
+        }
+    ],
+    "Speakers": [
+        {
+            "Immagine profilo": "",
+            "Nome": "Chance Strickland",
+            "Specilizzazione": "Remix Core",
+            "Breve descrizione": "Sr. Software Engineer at Shopify. Passionate about design, user experience and accessibility with..."
+        },
+        {
+            "Immagine profilo": "",
+            "Nome": "Jessy The",
+            "Specilizzazione": "Starting with Web3",
+            "Breve descrizione": "Frontend Developer with big interest in web3, blockchain (development) and the Metaverse"
+        }
+    ]
+}
